@@ -1,7 +1,65 @@
 @media only screen and (max-width: 600px) {
+    .pp{
+        padding: 0;
+      }
+    .rmt{
+        margin-top: 50px;
+    }
+    .rmtb{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .rtc{
+        text-align: center;
+    }
+    .imgw{
+        width: 300px;
+      }
+      .flex-prop2 {
+        display: flex;
+        /* align-items: center; */
+        justify-content: center;
+        flex-wrap: wrap;
+        font-family: "Hanken Grotesk", sans-serif;
+      
+      }
     .best_co{
         background-image: url(../img/education/social1.jpeg);
         width: 300px;
         height: 300px;
+      }
+      .box1 {
+        background-color: white;
+        color: grey;
+        display: flex;
+        padding: 20px;
+        border-radius: 40px 0px 40px 0px !important;
+        width: 363px !important;
+        flex-wrap: wrap;
+      
+      }
+      .box2 {
+        background-color: white;
+        color: grey;
+        display: flex;
+        padding: 20px;
+        border-radius: 40px 0px 40px 0px !important;
+        width: 363px !important;
+        flex-wrap: wrap;
+      
+      }
+      .you-btn img{
+        width: 300px !important;
+      }
+      .yt-btn{
+        font-size: 100px;
+        position: absolute;
+       margin-top: -100px;
+       margin-left: 150px;
+        transform: translate(-50%, -50%);
+        color: red;
+      }
+      .br{
+        border-right: none;
       }
 }
