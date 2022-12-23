@@ -1,0 +1,200 @@
+.body {
+  top: 0;
+  margin-left: 10%;
+  margin-right: 10%;
+  bottom: 0;
+  font-family: "Hanken Grotesk", sans-serif;
+  /* background-color: aqua; */
+}
+.zero_ma {
+  top: 0;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  bottom: 0;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right !important;
+}
+.icon_size {
+  font-size: 12px;
+  margin-bottom: -10px;
+}
+.icon_size:hover {
+  color: white !important;
+}
+.align {
+  vertical-align: middle;
+}
+.bottm {
+  border-bottom: 1px solid white;
+}
+.flex-prop1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #673ab7 !important;
+  border-color: #512995 !important;
+}
+.bg-nb {
+  background-color: #673ab7;
+  position: fixed;
+  z-index: 2;
+}
+.nav-link {
+  font-size: 12px !important;
+  color: white !important;
+}
+
+.bg-empower {
+  background-color: #512da8;
+  top: 0;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  bottom: 0;
+}
+.scroll-box {
+  background-color: rgb(240, 243, 243);
+  width: 300px;
+  height: 400px;
+  overflow: scroll;
+  border: 2px solid #512da8;
+  border-radius: 5px;
+}
+.heading {
+  font-size: 22px;
+  font-weight: 600;
+  border-bottom: 1px solid black;
+  margin-bottom: 20px;
+}
+.latest {
+  top: 0;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  bottom: 0;
+  background-color: rgb(234, 232, 232);
+}
+.row_slide {
+  display: flex;
+  flex-wrap: nowrap !important;
+  overflow: auto !important;
+}
+.daily {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  flex-wrap: wrap;
+
+}
+.green {
+  background: #e0f6de;
+  box-shadow: 0px 0px 5px -2px grey;
+  height: 600px;
+  width: 22rem;
+  flex-wrap: wrap;
+  height: 600px;
+  overflow: scroll;
+}
+.purple {
+  background: #e9d4f8;
+  box-shadow: 0px 0px 5px -2px grey;
+  height: 600px;
+  width: 22rem;
+  flex-wrap: wrap;
+  height: 600px;
+  overflow: scroll;
+}
+.sky {
+  background: #def0f6;
+  box-shadow: 0px 0px 5px -2px grey;
+  height: 600px;
+  width: 22rem;
+  flex-wrap: wrap;
+  height: 600px;
+  overflow: scroll;
+}
+.dot_bodr {
+  border-bottom: 2px dotted black;
+  margin: 15px;
+}
+.achive {
+  background: linear-gradient(183deg, #e8e4ff, #3575d3);
+  top: 0;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  bottom: 0;
+}
+.best_co{
+  background-image: url(../img/education/social1.jpeg);
+  width: 600px;
+  height: 300px;
+}
+.dfsb{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+}
+.box1 {
+  background-color: white;
+  color: grey;
+  display: flex;
+  padding: 20px;
+  border-radius: 40px 0px 40px 0px !important;
+  width: 35rem !important;
+  /* flex-wrap: wrap; */
+
+}
+.box2 {
+  background-color: white;
+  color: grey;
+  display: flex;
+  padding: 20px;
+  border-radius: 40px 0px 40px 0px !important;
+  width: 30rem !important;
+  /* flex-wrap: wrap; */
+
+}
+.downlod{
+  background: #f1f3f1;
+  box-shadow: 0px 0px 5px -2px grey;
+  height: 600px;
+  /* width: 22rem; */
+  flex-wrap: wrap;
+  height: 550px;
+  overflow: scroll;
+}
+.dot_bodr2 {
+  border-bottom: 1px dotted black;
+  /* margin: 15px; */
+}
+.you_btn{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.yt-btn{
+  font-size: 100px;
+  position: absolute;
+ margin-top: -150px;
+ margin-left: 200px;
+  transform: translate(-50%, -50%);
+  color: red;
+}
+.register{
+  top: 0;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  bottom: 0;
+  background-color: #512da8;
+  color: white;
+}
+.br{
+  border-right: 2px solid black;
+}
